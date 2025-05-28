@@ -1,13 +1,13 @@
 {
   "name": "xtouch-pro",
-  "version": "0.0.10919",
+  "version": "0.0.10920",
   "new_install_improv_wait_time": 0,
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "https://xperiments.in/xtouch-pro-bin/webusb/xtouch-pro-firmware.bin?version=0.0.10919",
+          "path": "https://xperiments.in/xtouch-pro-bin/webusb/xtouch-pro-firmware.bin?version=0.0.10920",
           "offset": 0
         }
       ]
